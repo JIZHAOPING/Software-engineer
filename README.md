@@ -11,13 +11,21 @@ jpg小组软件工程
 
 ### 项目成员
 - 纪朝萍
-	* Email:[670237342@qq.com]()
-	* Github:[https://github.com/JIZHAOPING](https://github.com/JIZHAOPING)
+  * Email:[670237342@qq.com]()
+  * Github:[https://github.com/JIZHAOPING](https://github.com/JIZHAOPING)
+
 - 郭诗博
-	* Email:[1137603852@qq.com]()
-	* Github:[https://github.com/Guoshibo](https://github.com/Guoshibo)	
+  * Email:[1137603852@qq.com]()
+  	 Github:[https://github.com/Guoshibo](https://github.com/Guoshibo)	
+
 - 潘凯亚
-	* Email:[3131225624@qq.com]()
-	* Github:[https://github.com/pankaiya](https://github.com/pankaiya)	
+  * Email:[3131225624@qq.com]()
+     Github:[https://github.com/pankaiya](https://github.com/pankaiya)	
+
+- 王丽媛(由五组转入)
+
+  - Email:501344340@qq.com
+
+    Github:https://github.com/wangliyuan521
 
  ### 运行效果
